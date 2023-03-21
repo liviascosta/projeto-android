@@ -1,3 +1,3 @@
 # PROJETO ANDROID
 
-Desafio do curso em video.
+Desafio 10 do Curso em Vídeo.
